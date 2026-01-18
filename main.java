@@ -1,8 +1,12 @@
 package Console_Quiz_App_using_Advance_Java;
 
-public class main{
+public class Main{
     public static void main(String[] args) {
-        System.out.println("Welcome to the Console Quiz App using Advanced Java!");
+        
+
+        QuestionService qs = new QuestionService();
+        qs.playQuiz();
+        qs.printScoreCard();
     }
 
     
