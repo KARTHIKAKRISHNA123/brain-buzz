@@ -1,4 +1,4 @@
-# 🧠 Java Console Quiz App
+# BrainBuzz - Java Console Quiz App
 
 A robust command-line application that allows users to take a quiz on Java fundamentals. 
 
